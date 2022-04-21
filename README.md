@@ -43,9 +43,9 @@ I've been learning to code for 5 years, I start with C# and some unity 3D for ga
                 src="https://github-readme-streak-stats.herokuapp.com/?user=Hama101&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                     href="http://www.github.com/Hama101"><img src="https://activity-graph.herokuapp.com/graph?username=Hama101&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Hama101" allign="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hama101&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b><div width="100%" allign="center"><a href="https://github.com/Hama101/ML_101" allign="left"><img allign="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hama101&repo=ML_101&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<b>Top Repositories</b><div width="100%" allign="center"><a href="https://github.com/Hama101/ML_101" allign="left"><img allign="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hama101&repo=ML_101&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
 ### 2021 FUN FACTS : 
 - The witcher 2 is the best show for 2021.
 - Spider-man no way home is the best movie for 2021.
 - It takes two game of the year ❤ .
-<br /><br /><br /><br />
+<br /><br />
