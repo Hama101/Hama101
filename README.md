@@ -9,7 +9,8 @@ I've been learning to code for 5 years, I start with C# and some unity 3D for ga
 *   🌍  I'm based in Tunisia
 *   ✉️  You can contact me at [hmdmohamed123@gmail.cpm](mailto:hmdmohamed123@gmail.cpm)
 *   🧠  I'm learning Django , Next.js
-*   🤝  I'm open to collaborating on ML projects<a href="https://www.github.com/Hama101" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on ML projects
+<a href="https://www.github.com/Hama101" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Hama101?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
