@@ -5,7 +5,7 @@
 I've been learning to code for 5 years, I start with C# and some unity 3D for game dev then I learned python. and I've been working with python since then.
 
 - 🌍  I'm based in Tunisia
-- ✉️  You can contact me at [hmdmohamed123@gmail.cpm](mailto:hmdmohamed123@gmail.cpm)
+- ✉️  You can contact me at [hmdmohamed123@gmail.cpm](mailto:hmdmohamed123@gmail.com)
 - 🧠  I'm learning Django , Next.js
 - 🤝  I'm open to collaborating on ML projects
 
