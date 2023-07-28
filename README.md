@@ -2,12 +2,19 @@
 
 ## I'm a backend/ML engineer
 
-I've been learning to code for 5 years, I start with C# and some unity 3D for game dev then I learned python. and I've been working with python since then.
+I possess a high level of confidence in my proficiency with various Python technologies, with a primary focus on the Django Rest Framework for backend development. Over the years, I have gained extensive experience in utilizing Selenium and BeautifulSoup4 for web crawling and scraping tasks. However, my recent exploration of Playwright, a newer framework, has revealed its superior capabilities compared to Selenium.
+
+Beyond web development, I have also honed my expertise in image processing and natural language processing (NLP) through the use of TensorFlow. TensorFlow is a widely acclaimed open-source library renowned for its robust machine learning and deep learning functionalities. Its diverse range of APIs and tools empowers users to efficiently work with neural networks, process images, and perform NLP tasks.
+
+In addition to my Python prowess, I have also acquired strong front-end skills. I am proficient in React, Next.js, and React Native, enabling me to build responsive and interactive user interfaces. The combination of my backend knowledge in Django and the Django Rest Framework, along with my front-end skills, allows me to construct resilient web applications, develop RESTful APIs, and create dynamic user experiences seamlessly.
+
+To summarize, my extensive knowledge in Python, coupled with my proficiency in Django, Django Rest Framework, Playwright, TensorFlow, React, Next.js, and React Native, positions me confidently in tackling a wide range of challenges in web development, web scraping, image processing, NLP, and front-end development domains. If you have any specific inquiries or require guidance in any of these areas, please feel free to ask.
 
 - 🌍  I'm based in Tunisia
-- ✉️  You can contact me at [hmdmohamed123@gmail.com](mailto:hmdmohamed123@gmail.com)
+- ✉️  You can contact me at [hammdi.mohammed@outlook.com](hammdi.mohammed@outlook.com)
 - 🧠  I'm learning Django , Next.js
 - 🤝  I'm open to collaborating on ML projects
+
 
 
 <a href="https://www.github.com/Hama101" target="_blank"        rel="noreferrer"><img src="https://img.shields.io/github/followers/Hama101?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917"/></a>
